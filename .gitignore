@@ -1,0 +1,49 @@
+# 비밀 값 · 로컬 기록
+/.mcp.json
+/docs/
+/review_tmp/
+/subagent_in/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+.vs/
+.idea/
+.vscode/
+.gradle/
+
+# LLMUnity가 내려받는 네이티브 라이브러리 (수 GB)
+/My project/Assets/StreamingAssets/LlamaLib-*/
+/My project/Assets/StreamingAssets/LlamaLib-*.meta
+
+# 모델 파일
+*.gguf
