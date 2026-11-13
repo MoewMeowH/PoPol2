@@ -1,5 +1,21 @@
 {
   "dependencies": {
+    "ai.undream.llm": {
+      "version": "https://github.com/undreamai/LLMUnity.git#v3.0.3",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      },
+      "hash": "9931a9ea46906b1f43adaf9498c05ccf227b5d0b"
+    },
+    "com.hb.ingameconsole": {
+      "version": "https://github.com/MoewMeowH/CustomUnityTools.git?path=Assets/Tools/HB_InGameConsole",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c7b75b205b5e2f2887a3a65077cd6c3f76c2bd42"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.14",
       "depth": 0,
