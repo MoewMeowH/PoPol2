@@ -1,0 +1,2 @@
+HB_InGameConsole: LogChannels.cs auto-generation has been done for this project.
+Delete this file to allow auto-generation again.

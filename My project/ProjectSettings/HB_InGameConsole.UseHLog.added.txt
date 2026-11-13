@@ -1,0 +1,2 @@
+HB_InGameConsole: USE_HLOG was added to Scripting Define Symbols once for this project.
+It will not be added again while this file exists. Delete this file to allow it again.
