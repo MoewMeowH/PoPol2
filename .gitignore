@@ -4,6 +4,16 @@
 /review_tmp/
 /subagent_in/
 
+# AI 도구 설정 · 규칙 파일
+/.claude/
+/.codex/
+/.agents/
+/CLAUDE.md
+/AGENTS.md
+/PROJECT.md
+/MISTAKES.md
+/REVIEW_GUIDELINES.md
+
 # Unity
 [Ll]ibrary/
 [Tt]emp/

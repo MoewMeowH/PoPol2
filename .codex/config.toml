@@ -1,9 +1,0 @@
-[mcp_servers.hb-orchestration]
-command = "dotnet"
-args = ["F:/AI/ToolWithCS/Orchestration/Publish_Output/HB.Orchestration.Mcp.dll"]
-env_vars = [
-    "OPENAI_API_KEY",
-    "GEMINI_API_KEY",
-    "FIREWORKS_API_KEY",
-    "HB_REVIEWER_API_KEY",
-]
